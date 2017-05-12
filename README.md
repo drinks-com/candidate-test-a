@@ -18,7 +18,7 @@ If you have any questions about this test, please email mark.gable@drinks.com.
 ### QUESTIONS
 ---
 
-1) write the HTML to match this [wireframe](./wire.jpg)
+1) write the HTML to match this [wireframe](./wire.pdf)
 
 2) refactor this method:
  
